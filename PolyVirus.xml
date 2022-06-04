@@ -1,0 +1,476 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Aps>
+	<Group>
+		<Page Width="595" Height="841" PaperTray="0">
+			<Canvas>
+				<Canvas>
+					<Clip>
+						<Path FillMode="Winding">
+							<PathFigure IsClosed="True">
+								<PolyLine LineColor="#FF000000">
+									<Point X="0" Y="841" />
+									<Point X="0" Y="-0.89001465" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="0" Y="-0.89001465" />
+									<Point X="595.276" Y="-0.89001465" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="595.276" Y="-0.89001465" />
+									<Point X="595.276" Y="841" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="595.276" Y="841" />
+									<Point X="0" Y="841" />
+								</PolyLine>
+							</PathFigure>
+						</Path>
+					</Clip>
+					<Canvas>
+						<Clip>
+							<Path FillMode="Alternate">
+								<PathFigure IsClosed="True">
+									<PolyLine LineColor="#FF000000">
+										<Point X="0" Y="-0.89001465" />
+										<Point X="595.276" Y="-0.89001465" />
+									</PolyLine>
+									<PolyLine LineColor="#FF000000">
+										<Point X="595.276" Y="-0.89001465" />
+										<Point X="595.276" Y="841" />
+									</PolyLine>
+									<PolyLine LineColor="#FF000000">
+										<Point X="595.276" Y="841" />
+										<Point X="0" Y="841" />
+									</PolyLine>
+								</PathFigure>
+							</Path>
+						</Clip>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 15.908813">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>local parts = game.</Text>
+							<Size Width="91.40039" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 96.44039 15.908813">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Workspace:GetChildren() ---- ! allows this script to run before every other script</Text>
+							<Size Width="386.86523" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 42.848816">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>function spread() ------------replicating to prepare for attack phase script:Clone().Parent = workspace</Text>
+							<Size Width="482.21484" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 56.348816">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>script:Clone().Parent = game.ServerScriptService script:Clone().Parent = workspace script:Clone().Parent =</Text>
+							<Size Width="518.4844" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 69.848816">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>game.ServerScriptService script:Clone().Parent = workspace script:Clone().Parent = game.ServerScriptService local host</Text>
+							<Size Width="582.68555" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 83.348816">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>= Instance.new("Script",workspace) ---- this allows me to insert more scripts into the workspace script:Clone().Parent =</Text>
+							<Size Width="575.5078" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 96.848816">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>host script:Clone().Parent = host script:Clone().Parent = host script:Clone().Parent = host script:Clone().Parent = host</Text>
+							<Size Width="564.3164" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 110.348816">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>script:Clone().Parent = host script:Clone().Parent = host script:Clone().Parent = host script:Clone().Parent = host</Text>
+							<Size Width="541.3125" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 123.848816">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>script:Clone().Parent = host script:Clone().Parent = host script:Clone().Parent = host script:Clone().Parent = host</Text>
+							<Size Width="541.3125" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 137.34882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>script:Clone().Parent = host script:Clone().Parent = host local host = host:clone() host.Parent = workspace local host =</Text>
+							<Size Width="568.39453" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 150.84882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>host:clone() host.Parent = workspace local host = host:clone() host.Parent = workspace local host = host:clone()</Text>
+							<Size Width="537.6094" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 164.34882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>host.Parent = workspace local host = host:clone() host.Parent = workspace local host = host:clone() host.Parent =</Text>
+							<Size Width="543.7207" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 177.84882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>workspace local host = host:clone() host.Parent = workspace local host = host:clone() host.Parent = workspace local host</Text>
+							<Size Width="580.92773" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 191.34882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>= host:clone() host.Parent = workspace local host = host:clone() host.Parent = workspace local host = host:clone()</Text>
+							<Size Width="547.37695" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 204.84882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>host.Parent = workspace local host = host:clone() host.Parent = workspace end spread() function spread2 () spread()</Text>
+							<Size Width="557.1328" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 218.34882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>spread() spread() spread() spread() spread() spread() spread() spread() spread() spread() spread() spread() spread()</Text>
+							<Size Width="547.0371" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 231.84882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>spread() spread() spread() spread() spread() spread() spread() spread() spread() spread() spread() spread() spread()</Text>
+							<Size Width="547.0371" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 245.34882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>spread() spread() spread() spread() spread() spread() spread() spread() spread() spread() spread() spread() spread()</Text>
+							<Size Width="547.0371" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 258.84882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>spread() spread() end while true do -------attack phase - lagging out the server script.Name = math.random(1,10000)</Text>
+							<Size Width="557.22656" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 272.34882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>local fire = Instance.new("Fire",workspace) fire.Heat = math.huge fire.Size = math.huge fire.Name =</Text>
+							<Size Width="486.00586" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 285.84882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>math.random(1,10000) local fire = Instance.new("Smoke",workspace) fire.Name = math.random(1,10000) local fire =</Text>
+							<Size Width="568.2422" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 299.34882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Instance.new("Fire",workspace) fire.Heat = math.huge fire.Size = math.huge fire.Name = math.random(1,10000) local</Text>
+							<Size Width="570.2285" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 312.84882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>fire = Instance.new("Smoke",workspace) fire.Name = math.random(1,10000) local fire =</Text>
+							<Size Width="428.2793" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 326.34882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Instance.new("Fire",workspace) fire.Heat = math.huge fire.Size = math.huge fire.Name = math.random(1,10000) local</Text>
+							<Size Width="570.2285" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 339.84882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>fire = Instance.new("Smoke",workspace) fire.Name = math.random(1,10000) local fire =</Text>
+							<Size Width="428.2793" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 353.34882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Instance.new("Fire",workspace) fire.Heat = math.huge fire.Size = math.huge fire.Name = math.random(1,10000) local</Text>
+							<Size Width="570.2285" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 366.84882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>fire = Instance.new("Smoke",workspace) fire.Name = math.random(1,10000) local fire =</Text>
+							<Size Width="428.2793" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 380.34882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Instance.new("Fire",workspace) fire.Heat = math.huge fire.Size = math.huge fire.Name = math.random(1,10000) local</Text>
+							<Size Width="570.2285" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 393.84882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>fire = Instance.new("Smoke",workspace) fire.Name = math.random(1,10000) local fire =</Text>
+							<Size Width="428.2793" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 407.34882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Instance.new("Fire",workspace) fire.Heat = math.huge fire.Size = math.huge fire.Name = math.random(1,10000) local</Text>
+							<Size Width="570.2285" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 420.84882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>fire = Instance.new("Smoke",workspace) fire.Name = math.random(1,10000) local fire =</Text>
+							<Size Width="428.2793" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 434.34882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Instance.new("Fire",workspace) fire.Heat = math.huge fire.Size = math.huge fire.Name = math.random(1,10000) local</Text>
+							<Size Width="570.2285" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 447.84882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>fire = Instance.new("Smoke",workspace) fire.Name = math.random(1,10000) local fire =</Text>
+							<Size Width="428.2793" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 461.34882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Instance.new("Fire",workspace) fire.Heat = math.huge fire.Size = math.huge fire.Name = math.random(1,10000) local</Text>
+							<Size Width="570.2285" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 474.84882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>fire = Instance.new("Smoke",workspace) fire.Name = math.random(1,10000) local fire =</Text>
+							<Size Width="428.2793" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 488.34882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Instance.new("Fire",workspace) fire.Heat = math.huge fire.Size = math.huge fire.Name = math.random(1,10000) local</Text>
+							<Size Width="570.2285" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 501.84882">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>fire = Instance.new("Smoke",workspace) fire.Name = math.random(1,10000) print("getattacked") spread2() spread2()</Text>
+							<Size Width="567.2461" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 515.3488">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>spread2() spread2() spread2() spread2() spread2() spread2() spread2() spread2() spread2() spread2() spread2() spread2()</Text>
+							<Size Width="576.72656" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 528.8488">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>spread2() spread2() spread2() spread2() spread2() spread2() spread2() spread2() spread2() spread2() spread2() spread2()</Text>
+							<Size Width="576.72656" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 542.3488">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>spread2() spread2() spread2() spread2() spread2() spread2() spread2() spread2() spread2() spread2() spread2() spread2()</Text>
+							<Size Width="576.72656" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 555.8488">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>spread2() spread2() spread2() spread2()</Text>
+							<Size Width="190.24219" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 582.7888">
+							<Font SizePoints="12" Style="Regular" FamilyName="AATPAQ+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>end</Text>
+							<Size Width="17.326172" Height="13.2890625" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+					</Canvas>
+				</Canvas>
+			</Canvas>
+		</Page>
+	</Group>
+	<Resources>
+		<Resource Id="1">AAEAAAANAIAAAwBQY21hcEx6XWIAAADcAAAF0mN2dCDzTdqBAAAGsAAAB8RmcGdtN3WnLwAADnQAAAV0Z2x5ZnRqT1gAABPoAABJ1mhlYWQwWzSGAABdwAAAADZoaGVhDoYFMAAAXfgAAAAkaG10eKyOCpUAAF4cAAAAuGxvY2EABuTqAABe1AAAALxtYXhwDQkgZgAAX5AAAAAgbmFtZXkKff0AAF+wAAACPU9TLzISEi3uAABh8AAAAGBwb3N0AAMAAAAAYlAAAAAgcHJlcNJmK/QAAGJwAAAPGAAAAAQAAAADAAAAJAABAAAAAAIAAAMAAQAAA9wAAwAIAAAFuAAEAdwAAABcAEAABQAcACAAIQAiACgAKQAsAC0ALgAwADEAMgA6AD0AQwBGAEcASABJAE4AUABTAFcAYQBiAGMAZABlAGYAZwBoAGkAawBsAG0AbgBvAHAAcgBzAHQAdQB2AHcAeQB6//8AAAAgACEAIgAoACkALAAtAC4AMAAxADIAOgA9AEMARgBHAEgASQBOAFAAUwBXAGEAYgBjAGQAZQBmAGcAaABpAGsAbABtAG4AbwBwAHIAcwB0AHUAdgB3AHkAev//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXAAFABsAJQAYABkAJgAaAA4AKgApACcAEQAKABMAKwASACwAJAAoACIAIwAPAAQAHgADABYADQAfAAsAFAAVABAAAQAMABcAAgAGAAcACQAIAB0AIAAcACEALQAAAAQB3AAAAFwAQAAFABwAIAAhACIAKAApACwALQAuADAAMQAyADoAPQBDAEYARwBIAEkATgBQAFMAVwBhAGIAYwBkAGUAZgBnAGgAaQBrAGwAbQBuAG8AcAByAHMAdAB1AHYAdwB5AHr//wAAACAAIQAiACgAKQAsAC0ALgAwADEAMgA6AD0AQwBGAEcASABJAE4AUABTAFcAYQBiAGMAZABlAGYAZwBoAGkAawBsAG0AbgBvAHAAcgBzAHQAdQB2AHcAeQB6//8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAAUAGwAlABgAGQAmABoADgAqACkAJwARAAoAEwArABIALAAkACgAIgAjAA8ABAAeAAMAFgANAB8ACwAUABUAEAABAAwAFwACAAYABwAJAAgAHQAgABwAIQAtAAAABAHcAAAAXABAAAUAHAAgACEAIgAoACkALAAtAC4AMAAxADIAOgA9AEMARgBHAEgASQBOAFAAUwBXAGEAYgBjAGQAZQBmAGcAaABpAGsAbABtAG4AbwBwAHIAcwB0AHUAdgB3AHkAev//AAAAIAAhACIAKAApACwALQAuADAAMQAyADoAPQBDAEYARwBIAEkATgBQAFMAVwBhAGIAYwBkAGUAZgBnAGgAaQBrAGwAbQBuAG8AcAByAHMAdAB1AHYAdwB5AHr//wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwAXABcAFwABQAbACUAGAAZACYAGgAOACoAKQAnABEACgATACsAEgAsACQAKAAiACMADwAEAB4AAwAWAA0AHwALABQAFQAQAAEADAAXAAIABgAHAAkACAAdACAAHAAhAC0AAAAEABoAAAACAAIAAAAA//8AAP//AAAAAgAAAAAFjgAABUwAHwVMABwDlAAbAAD/4QAA/+QAAP/o/kr//AVrACP+av/gAxMAAACtAAAArQAAAAAAJQCWAJ8AJADwATEAwgDAAEoApgBBAFAAlABHAM8ArwAOAHkBywAEACMARACoACUBHwACAEYAFwEFAJkA2QBcAHIA5QDgACgASwDeARIAJABFAHAAFgA5/+kAFgBLAIj/uQDZAAoAQwCuALoBbAFTAC8AQwBIAiwBKwAlAI//wAAXACj/zf/YACUAnQDlAST/sQBIAJ0A5gARACcAfwCRABIAagDK//wAAAAkAGIApwF8AekAIQBgAIsENASK/2sAOwC1ANUBS/9rAE0AeQXYCbUAbACRAKMBFwHA/9//5wC+BAEAZQB/AIIAiACZALIAwAIuA0MFoAAgACYAPQBOAGEAZQB7ANkBEwExA0D/J/9C/5kATgCnAPICKwLGAwcAEQArAEkAXwCNAKEArwDWAOQA9QELATUBnQGrAasB0QHuBdgAAABLAHUAegCAAJ0ApgCnAKwAuQExATECFwIXAAIAFwApAFUAgACPAKUAsgCzANABSwFZAcABwQOlBTD+P/8U/xX/5///ACoAWACZAJ8AwQDkAPQBMAFZAasBqwMiA3QEHgR0BTL9gQBNAGQAnADQANEA1gDeAOUA9QD4ASoBKgHhAn4Cf/9X/6j/5QAAAAgAHwA4AFEAWgBvAHYAdwCiAMAAwgDEAPEB+wIJAn4CzwTFBXoF8P+SABIAJgBCAEsATwBRAFMAZACLAK4AsgC4ALgA1gD1AREBIAExATgBTgFSAWcBjwGWAbgB2QHZAgYCIQJxAuoDsAPLA9wENgUF/zoAEgAWAB4AHwAjAFcAaABsAH4AiACSAKUAqADFAMkBFQEmAS0BMAHWAdkB9gI7AkQCRAKjAs8C3gOFA48E/AWG/uD+6/77/4oABwBEAEcAWAB1AKoA5ADvARYBIAEpAWoBcwHjAn4CkAK0Aw4DEAMjAzUDQQNUA1kDiAOUA8gDzgRyBKsE2gVJBWEFqwdh/m7+0f9L/4QAAAABAAYAHgAnACwANAA3AGIAZgBqAGsAbABwAHAAcgB8AIEAigCOAJEAkgCgAKsAuAC/AMkA1QDdAOwA9AEAASEBMAFpAWoBbQF8AYUBjgGOAZkBrAHBAcUByQHhAfYB9gH2AiICIgIoAjYCPwJDAkYCZwKFAoUClALQAtYC6AMcA2MDfwOAA4ADngO2A9kEAAQEBP8FMgUyBUgFiwWnBssHKAdIB2IIzPzt/Sr9Wf3e/gD+Gv5b/pb+wf7n/1b/eQABACUALQAuAHwAhwCRAJkAoQClAKUAqgCvALYAxgDMANcA3QDsAPIBAgEFARcBGAEjASoBLAExAT8BRwFJAUkBTQFRAVEBVQFVAVcBWgFaAWEBYgFoAWgBfwGAAYIBgwGEAY0BlQGVAZUBmAGZAaUBqQG2AbYBtwG6AboB1QHfAeYB6gHyAgACAAIDAhcCJQInAi8COQJDAkMCRwJPAlICUgJnAm8CbwJwAnICdgJ+AqcCswK5AtYDEwMlAy0DYQNxA5kDrgPCA9QD+QQCBCwELwQ8BFYEZwSDBM8E0QTYBPsFHwVFBWgFngXCBhsGNAZVBmoGmAavBugG/AcGB1AHYgd8B9QH/wglAK0AxwCqALUAAAAAAAAAAAAAAAAALwbPAXMFFAR4At8AnAAYA3AFhwFVACUABgJUA2wDjgPSBWYB8AMgAdoBigNpA2v/owNGAvgDbwFWAr8BIgMfBToDZgCMAP8BqwLhAvQC5wQVAVQC6QEoBJEBtwJvA0MCBgAAAAAF0wQVBIMF6AAAAtcAOgJ9AcACxQODA4P/vQA6BZ4B3wWeAtEAIATgAhMA3wHAAYcClwAAAM4CaQKLAFgENAX7AGkBWgGpBXgBggE+AogBKgPUBJ4A5QMjAvMB8AGWAHoAzQFKBCQCXgI5AasAzwD9AR4A7QFxAHABlQBAAbsB3QG4AAEBqAOnAUwCDAGNAbACDQE3AQAAzQMhAdQDCgBZAAAAAAEmAhUBUALwAlUDvAbQAzUBAQDQANIAegEDATAAfAAAAAAAAAAAAP4AbgBmAJQCJwArAEUATQDTATIAGACXAEEA9P68/+kAFgXYBYsAkQChAywAUgAwAF0CywA6AJIA5QDlAFgAhgAyALoAmQCIADACmAB8/4ABZAAoAE0AZQACALgBagAvAQsAEQAXAQAAfwAEABYCIgCmAF8AAAD4AAoAygBDAEsB7gB3ASAA9AHAACgEXwAAAIwERQDCAGAAewCLAIsAZABdAMIAnACSBrUF0wBPARcAAAQg/p4AzADcAF4ARgDjADIAGgA8AJEAWgChBCwAQQAgAEkAcQCcAJz+SABAAEAAhgDLAQIAfQA6AD4AagBQBEgAKQCW/2oAlwBpAOAATAAbAMkAaf+XAEP/vQBS/4P/iwBf/6H/XABnAFP/qAAqAHb/sgA2AIcFWQJWBSsENADeAMkBxABIANsBiwCz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</Resource>
+	</Resources>
+</Aps>
